@@ -1,0 +1,96 @@
+[submodule ".vim/bundle/YouCompleteMe"]
+	path = .vim/bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule ".vim/bundle/ansible-vim"]
+	path = .vim/bundle/ansible-vim
+	url = ./.vim/bundle/ansible-vim
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = ./.vim/bundle/nerdtree
+[submodule ".vim/bundle/restore_view.vim"]
+	path = .vim/bundle/restore_view.vim
+	url = ./.vim/bundle/restore_view.vim
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = ./.vim/bundle/syntastic
+[submodule ".vim/bundle/vim-airline-themes"]
+	path = .vim/bundle/vim-airline-themes
+	url = ./.vim/bundle/vim-airline-themes
+[submodule ".vim/bundle/vim-airline"]
+	path = .vim/bundle/vim-airline
+	url = ./.vim/bundle/vim-airline
+[submodule ".vim/bundle/vim-instant-markdown"]
+	path = .vim/bundle/vim-instant-markdown
+	url = ./.vim/bundle/vim-instant-markdown
+[submodule ".vim/bundle/vim-obsession"]
+	path = .vim/bundle/vim-obsession
+	url = ./.vim/bundle/vim-obsession
+[submodule ".vim/bundle/vim-prosession"]
+	path = .vim/bundle/vim-prosession
+	url = ./.vim/bundle/vim-prosession
+[submodule ".vim/bundle/vim-ps1"]
+	path = .vim/bundle/vim-ps1
+	url = ./.vim/bundle/vim-ps1
+[submodule ".vim/bundle/vim-terraform"]
+	path = .vim/bundle/vim-terraform
+	url = ./.vim/bundle/vim-terraform
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = ./.oh-my-zsh
+[submodule ".tmux/plugins/tpm"]
+	path = .tmux/plugins/tpm
+	url = ./.tmux/plugins/tpm
+[submodule ".tmux/plugins/tmux-resurrect"]
+	path = .tmux/plugins/tmux-resurrect
+	url = ./.tmux/plugins/tmux-resurrect
+[submodule ".tmux/plugins/tmux-continuum"]
+	path = .tmux/plugins/tmux-continuum
+	url = ./.tmux/plugins/tmux-continuum
+[submodule ".vim/bundle/vim-javascript"]
+	path = .vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "ansible-vim"]
+	path = ansible-vim
+	url = ./.vim/bundle/ansible-vim/
+[submodule "nerdtree"]
+	path = nerdtree
+	url = ./.vim/bundle/nerdtree/
+[submodule "restore_view.vim"]
+	path = restore_view.vim
+	url = ./.vim/bundle/restore_view.vim/
+[submodule "syntastic"]
+	path = syntastic
+	url = ./.vim/bundle/syntastic/
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = ./.vim/bundle/vim-airline-themes/
+[submodule "vim-airline"]
+	path = vim-airline
+	url = ./.vim/bundle/vim-airline/
+[submodule "vim-instant-markdown"]
+	path = vim-instant-markdown
+	url = ./.vim/bundle/vim-instant-markdown/
+[submodule "vim-obsession"]
+	path = vim-obsession
+	url = ./.vim/bundle/vim-obsession/
+[submodule "vim-prosession"]
+	path = vim-prosession
+	url = ./.vim/bundle/vim-prosession/
+[submodule "vim-ps1"]
+	path = vim-ps1
+	url = ./.vim/bundle/vim-ps1/
+[submodule "vim-terraform"]
+	path = vim-terraform
+	url = ./.vim/bundle/vim-terraform/
+[submodule "tmux-continuum"]
+	path = tmux-continuum
+	url = ./.tmux/plugins/tmux-continuum
+[submodule "tmux-resurrect"]
+	path = tmux-resurrect
+	url = ./.tmux/plugins/tmux-resurrect
+[submodule "tpm"]
+	path = tpm
+	url = ./.tmux/plugins/tpm
+[submodule ".scripts"]
+	path = .scripts
+	url = ./.scripts

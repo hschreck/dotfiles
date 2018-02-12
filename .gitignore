@@ -1,0 +1,9 @@
+.tmux/resurrect
+.tmux/resurrect/*
+.vim/session
+.vim/session/*
+.vim/view
+.vim/view/*
+.netrwhist
+.vim/.netrwhist
+
