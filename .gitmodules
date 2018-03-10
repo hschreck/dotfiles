@@ -91,6 +91,9 @@
 [submodule "tpm"]
 	path = tpm
 	url = ./.tmux/plugins/tpm
-[submodule ".scripts"]
+[submodule ".vim/bundle/jedi-vim"]
+	path = .vim/bundle/jedi-vim
+	url = http://github.com/davidhalter/jedi-vim
+[submodule "scripts_"]
 	path = .scripts
-	url = ./.scripts
+	url = https://github.com/hschreck/scripts.git
